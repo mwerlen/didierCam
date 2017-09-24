@@ -1,0 +1,5 @@
+pygame
+picamera
+shlex
+glob
+RPi
